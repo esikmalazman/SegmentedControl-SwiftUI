@@ -3,7 +3,8 @@
 //  SegmentedControl-SwiftUI
 //
 //  Created by Ikmal Azman on 18/04/2023.
-//
+// Sean Allen : SwiftUI Segmented Control Tutorial | iOS 14 | Xcode 12.4
+// https://www.youtube.com/watch?v=iqKmgs_0VPE
 
 import SwiftUI
 
